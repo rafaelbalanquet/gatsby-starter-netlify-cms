@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'Daily News Across the Globe'
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron1.jpg
 heading: International news outlet
 subheading: What's going on in the world economy today?
 description: >-
