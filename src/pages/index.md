@@ -2,8 +2,8 @@
 templateKey: 'index-page'
 title: 'Daily News Across the Globe'
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: International news outlet
+subheading: What's going on in the world economy today?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
