@@ -24,8 +24,18 @@ about current economic policy and situations that may effect our markets, as wel
 as an "adopt a company" project. These help to get us motivated and geared toward the
 mind set of daily economic thinking.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Adopt a Company
+One of the things we plan to implement and pursue in the future club is an "adopt a company"
+project, where every member will pick a company in whichever industry they would like and
+consistently provide up-to-date analysis of their company, such as news, public offerings, stock
+price changes, different business deals, etc. This will also include the key information on
+their most recent
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Reinvestment
+While the club still is in an infant stage, we would like to insure that it continues to bring in
+students who are interested in learning about these topics in a rather relaxed environment. For
+this reason, we would like to have past executives and members alike to invest time into helping
+later generations of students through both alumni relationships with future employers, along
+with assistance in the actual club atmosphere itself. This will help develop topics and
+standards the club should abide by in order to get our aspiring financially conscious students
+a path in the right direction. 
