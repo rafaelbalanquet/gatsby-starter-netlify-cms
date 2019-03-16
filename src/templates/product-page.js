@@ -32,6 +32,7 @@ export const ProductPageTemplate = ({
                       ? image.childImageSharp.fluid.src
                       : image
                   })`,
+                  backgroundAttachment: `fixed`,
                 }}
               >
                 <h2

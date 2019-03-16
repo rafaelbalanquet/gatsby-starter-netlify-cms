@@ -1,9 +1,9 @@
 ---
 templateKey: 'index-page'
-title: 'Daily News Across the Globe'
+title: 'AC Wealth Management Club'
 image: /img/home-jumbotron1.jpg
-heading: International news outlet
-subheading: What's going on in the world economy today?
+heading: Main Page
+subheading: Carpe Diem
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
