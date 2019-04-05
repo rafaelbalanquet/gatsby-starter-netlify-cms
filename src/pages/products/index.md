@@ -94,6 +94,7 @@ pricing:
   plans:
     - description: Won't
       items:
+      - Compete in club based competition to earn prizes
       plan: Take
       price: '0'
     - description: Cost
@@ -105,6 +106,7 @@ pricing:
       price: '0'
     - description: Anything
       items:
+      - Attack financial understanding head on
       plan: Chance
       price: '0'
 ---
