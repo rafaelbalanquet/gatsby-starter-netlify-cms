@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Stability
-image: /img/sability.jpg
+image: /img/Stability.jpg
 heading: Building a Financially Conscientious Allegheny Community
 description: >-
   The Allegheny College Wealth Management club is currently made up of a
