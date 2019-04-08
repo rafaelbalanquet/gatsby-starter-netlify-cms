@@ -13,7 +13,7 @@ description: >-
   glad to pass that knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/meeting2.png
       text: >
         We offer a weekly meeting that will cover various topics from earnings
         calls to guides for technical analysis. We want everyone to get
@@ -21,7 +21,7 @@ intro:
         where anyone who wants to offer some news, statistics, analysis, etc.
         is free to do as they please. One of the biggest talking points for the
         club is our stock market game with seminar evaluation.
-    - image: /img/coffee-gear.png
+    - image: /img/stockarrow2.png
       text: >
         The stock market game takes place on Investopedia.com. Every semester
         we would like to start one towards the beginning and have it run for that
@@ -30,7 +30,7 @@ intro:
         markets. We want to monetize the competition, giving students a
         more rewarding incentive for keeping up to date with their stocks
         and with the market itself.
-    - image: /img/tutorials.png
+    - image: /img/market2.png
       text: >
         Another big part of the club will be the employment of our adopt a
         market assignment. However, don't let the word assignment trick you,
@@ -39,7 +39,7 @@ intro:
         news and information from one effects them and the competition as well.
         This is a great way to understand how media shifts domestic and global
         markets.
-    - image: /img/meeting-space.png
+    - image: /img/its2.png
       text: >
         Allegheny has lacked a strong economic department presence. We want to
         be the pioneers that bring economics to the forefront. We, along with
