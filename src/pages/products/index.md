@@ -67,10 +67,10 @@ main:
     counts.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/finance.jpeg
+    image: /img/finance.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/bluehundreds.jpeg
+    image: /img/bluehundreds.jpg
   image3:
     alt: Coffee beans
     image: /img/BusCom.jpeg
