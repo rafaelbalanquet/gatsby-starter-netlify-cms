@@ -5,10 +5,12 @@ image: /img/home-jumbotron1.jpg
 heading: Main Page
 subheading: Carpe Diem
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+The Allegheny College Wealth Management club is currently made up of a
+hardworking group of diverse majors with one common goal; to expand and disperse
+our knowledge of the ins and outs of finance. We want to be establish a
+framework and base for Econ students, and we are always eager to learn more.
+Collaborative learning is a huge part in building our knowledge, and we’re
+glad to pass that knowledge to anyone.
 mainpitch:
   title: Why Kaldi
   description: >
