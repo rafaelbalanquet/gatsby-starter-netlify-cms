@@ -75,14 +75,15 @@ main:
     alt: Coffee beans
     image: /img/BusCom.jpeg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: William Feather
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      One of the funny things about the stock market is that every time one
+      person buys, another sells, and both think they are astute.
+  - author: Henry Ford
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      It is well enough that people of the nation do not understand our banking
+      and monetary system. for if they did, I believe there would be a revolution
+      before tomorrow morning. 
 full_image: /img/jumboprod2.jpg
 pricing:
   heading: What are you giving up?
