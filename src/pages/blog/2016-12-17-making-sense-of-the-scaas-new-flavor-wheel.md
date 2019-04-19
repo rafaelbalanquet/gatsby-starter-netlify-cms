@@ -2,13 +2,14 @@
 templateKey: blog-post
 title: Japan's inflation edges higher, but its central bank is still in a bind.
 date: 2019-04-18T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: The country's inflation continues to rise with no response from the
+bank's bank.
 tags:
-  - flavor
-  - tasting
+  - bigbank
+  - inflation
 ---
 
-![flavor wheel](/img/flavor_wheel.jpg)
+![Japan](/img/japan.jpeg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
