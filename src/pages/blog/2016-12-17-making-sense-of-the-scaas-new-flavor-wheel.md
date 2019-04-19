@@ -3,13 +3,13 @@ templateKey: blog-post
 title: Japan's inflation edges higher, but its central bank is still in a bind.
 date: 2019-04-18T15:04:10.000Z
 description: Japan's economy continues to experience rising inflation rates,
-but the central bank cannot act out monetary policy just yet. 
+but the central bank cannot act out monetary policy just yet.
 tags:
   - flavor
   - tasting
 ---
 
-![flavor wheel](/img/flavor_wheel.jpg)
+![Japan](/img/japan.jpeg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
