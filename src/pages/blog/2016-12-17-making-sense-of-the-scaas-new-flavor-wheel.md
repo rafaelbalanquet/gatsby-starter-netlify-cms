@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: Japan's inflation edges higher, but its central bank is still in a bind.
 date: 2019-04-18T15:04:10.000Z
-description: The country's inflation continues to rise with no response from the
-bank's bank.
+description: The country's inflation continues to rise with no response from the bank's bank.
 tags:
   - bigbank
   - inflation
