@@ -10,9 +10,11 @@ tags:
 
 ![Japan](/img/japan.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Japan's core inflation picked up slightly in March from a year earlier, but remained distant from the Bank of Japan's ambitious 2% target in a sign of rising pressure.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Over the past year, policymakers have had to contend with a slowdown in global demand as the Sino-U.S tariff war put a dent on world trade and hit Japanese exporters. This has made the Bank of Japan's task of generating inflation even more difficult.
+
+Data on Friday showed a 0.8% increase in the nationwide core consumer price index (CPI), which includes oil products, but excludes volatile fresh food costs, compared with a median market forecast of 0.7%. In February, annual core consumer inflation hit 0.7%.
 
 ## What the updates mean to you
 
