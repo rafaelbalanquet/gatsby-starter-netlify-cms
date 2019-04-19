@@ -3,7 +3,7 @@ templateKey: 'index-page'
 title: 'AC Wealth Management Club'
 image: /img/home-jumbotron1.jpg
 heading: Main Page
-subheading: Carpe Diem
+subheading: Early investments exponentially increase returns
 description: >-
   The Allegheny College Wealth Management club is currently made up of a hardworking
   group of people with divers majors and one common goal; to expand and disperse
@@ -68,7 +68,7 @@ main:
     We hold our members to the highest standards when it comes to engaging with
     the material and effectively learning to propel the group in a positive
     direction. As we move through the development, Allegheny College has elected
-    to possibly set aside parts of the economic department endowment in order to 
+    to possibly set aside parts of the economic department endowment in order to
     give us the ability to manage real funds.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
