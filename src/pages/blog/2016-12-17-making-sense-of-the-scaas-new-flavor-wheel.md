@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Japan's inflation edges higher, but its central bank is still in a bind.
+date: 2019-04-18T15:04:10.000Z
+description: Japan's economy continues to experience rising inflation rates,
+but the central bank cannot act out monetary policy just yet. 
 tags:
   - flavor
   - tasting
