@@ -5,12 +5,12 @@ image: /img/home-jumbotron1.jpg
 heading: Main Page
 subheading: Carpe Diem
 description: >-
-The Allegheny College Wealth Management club is currently made up of a
-hardworking group of diverse majors with one common goal; to expand and disperse
-our knowledge of the ins and outs of finance. We want to be establish a
-framework and base for Econ students, and we are always eager to learn more.
-Collaborative learning is a huge part in building our knowledge, and we’re
-glad to pass that knowledge to anyone.
+  The Allegheny College Wealth Management club is currently made up of a hardworking
+  group of people with divers majors and one common goal; to expand and disperse
+  our knowledge of the ins and outs of finance. We want to establish a framework
+  for Econ students, and we are always eager to learn more. Collaborative learning
+  is a staple for building our understanding, and we are glad to pass that
+  knowledge on to anyone willing to move us forward.
 mainpitch:
   title: Why Kaldi
   description: >
