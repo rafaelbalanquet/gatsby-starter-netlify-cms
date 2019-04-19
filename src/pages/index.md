@@ -12,13 +12,11 @@ description: >-
   is a staple for building our understanding, and we are glad to pass that
   knowledge on to anyone willing to move us forward.
 mainpitch:
-  title: Why Kaldi
+  title: Why ACWMC
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+      We're dedicated. We are supported through the economics department. We
+      strive to put students first. Starting your investments early exponentially
+      increases returns. What more convincing do you need?
 intro:
   blurbs:
     - image: /img/coffee.png
