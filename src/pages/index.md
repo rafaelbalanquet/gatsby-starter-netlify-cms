@@ -21,31 +21,41 @@ intro:
   blurbs:
     - image: /img/meeting2.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We offer a weekly meeting that will cover various topics from earnings
+        calls to guides for technical analysis. We want everyone to get
+        as much out of the club as we are, so we offer a seminar style meeting
+        where anyone who wants to offer some news, statistics, analysis, etc.
+        is free to do as they please. One of the biggest talking points for the
+        club is our stock market game with seminar evaluation.
     - image: /img/stockarrow2.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        The stock market game takes place on Investopedia.com. Every semester
+        we would like to start one towards the beginning and have it run for that
+        18 or so week period. The goal of the game is to get people thinking
+        about hwo the stock market and some other securities move in secondary
+        markets. We want to monetize the competition, giving students a more
+        rewarding incentive for keeping up to date with their stocks and
+        with the market itself.
     - image: /img/market2.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Another big part of the club will the employment of our adopt a
+        market assignment. However, don't let the word assignment trick you,
+        it's not graded (ha ha). We just want to get members engrained into
+        thinking about how different companies in a market work, and how
+        news and information from one effects the company and the competition
+        as well. This is a great way to understand how media shifts domestic
+        and global markets.
     - image: /img/its2.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Allegheny has lacked a strong economic department presence. We want to
+        be the pioneers that bring economics to the forefront. We, along with
+        some of the ground level fundamental building we've proposed, want to
+        also let students external connections through speakers. We
+        want to relate our work to the real world as much as possible because
+        that relationship is what proves how important this information is.
+        We want to facilitate connections to the executives of the business world,
+        hopefully making those employment and internship searches a little bit
+        easier.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -53,12 +63,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great community with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our members to the highest standards when it comes to engaging with
+    the material and effectively learning to propel the group in a positive
+    direction. As we move through the development, Allegheny College has elected
+    to possibly set aside parts of the economic department endowment in order to 
+    give us the ability to manage real funds.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
