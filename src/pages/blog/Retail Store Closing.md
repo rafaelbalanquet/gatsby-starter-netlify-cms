@@ -1,27 +1,24 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: U.S. Retail Store's Planned Closings Already Exceed 2018 Total
+date: 2019-04-12T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![retail](/img/retail.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+*By Sapna Maheshwari*
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+As an executive vice president at [Great American Group](https://greatamerican.com/), a firm that helps liquidate the merchandise, clothing racks and mannequins at stores that are closing, Ryan Mulcunry has been watching booms and busts in the retail industry for almost two decades.
 
-## The little secrets of Chemex brewing
+Companies like his have been busy in recent years, but lately one thing has been missing.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+*"In all other cycles, including 2008, a lot of people would come in and buy racking, circular racks and so on,"* Mr. Mulcunry said. *"They'd buy it all and warehous it and wait until somebody wanted to repopen a store and sell it back to them. Those people have gone away."*
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+He added, *"People don't think retail is going to grow again from a bricks-and-mortar perspective."*
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+As the internet continues to change shopping habits, stores across the United States continue to close. less than halfway through April, American retailers have announced plans this year to shut 5,994 stores, exceeding the 5,854 announced in all of 2018, according to data from [Coresight Research](https://coresight.com/).
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+To read more please visit [nytimes.com](https://www.nytimes.com/2019/04/12/business/retail-store-closings.html).
