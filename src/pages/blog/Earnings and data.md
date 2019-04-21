@@ -1,33 +1,26 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Earnings and data could be proof that slowdown fears were overblown'
+date: 2019-04-19T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Earnings season shifts into a higher gear in the week ahead, as investors also watch for fresh economic data that could show that the economy is pulling out of a temporary rut
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - GDP
+  - investment
+  - finance
+  - S&P500
+  - growth
+  - US/China
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+![Stock Brokers](/img/brokers.jpeg)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+[Amazon](https://www.cnbc.com/quotes/?symbol=AMZN), [Boeing](https://www.cnbc.com/quotes/?symbol=BA), [Microsoft](https://www.cnbc.com/quotes/?symbol=MSFT) and [ExxonMobil](https://www.cnbc.com/quotes/?symbol=XOM) are among more than 140 S&P 500 companies reporting quarterly results. According to Refinitiv, 74% of the companies reporting so far have beaten expectations. Based on forecasts and actual reports, earnings for the S&P 500 as a whole are expected to decline 1.7%, the first negative quarter in three years. Some forecasters had projected an earnings decline of 4% or more.
 
-## A little history
+The equivalent of the economy's first-quarter report card will be released Friday, with the first reading of GDP. The outlook for first-quarter growth has suddenly shifted upward, after a series of better data releases later in the quarter.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+At the same time, investors are feeling better about global growth and far less fearful of a recession in the near term. One reason is that China's data has also being picking up. This past week, China reported first-quarter GDP of 6.4%, above economic expectations.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+U.S. trade talks with china could also be important in the week ahead, with negotiations continuing and investors awaiting news of a summit between President Donald Trump and China President Xi Jinping.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+To read more visit [CNBC.com](https://www.cnbc.com/2019/04/19/earnings-and-data-could-be-proof-that-slowdown-fears-were-overblown.html).

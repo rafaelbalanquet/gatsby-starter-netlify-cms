@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Japan's inflation edges higher, but its central bank is still in a bind.
 date: 2019-04-18T15:04:10.000Z
-description: The country's inflation continues to rise with no response from the bank's bank.
+description: The country's inflation continues to rise with no response from the bank's bank
 tags:
   - bigbank
   - inflation
@@ -24,4 +24,4 @@ The Central bank is in a bind. Years of heavy money printing have dried up bon m
 
 Subdued inflation has left the BOJ well behind its counterparts in dialing back stimulus, including the United States where monetary policy had a bigger impact. Some economists also argue the BOJ has little ammunition left to fight another serious economic downturn.
 
-Read more at [CBNC.com](https://www.cnbc.com/2019/04/19/japan-inflation-edges-higher-but-bank-of-japan-still-in-a-bind.html)
+To read more visit [CBNC.com](https://www.cnbc.com/2019/04/19/japan-inflation-edges-higher-but-bank-of-japan-still-in-a-bind.html).
