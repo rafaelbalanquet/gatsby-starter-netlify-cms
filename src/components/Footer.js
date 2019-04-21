@@ -27,7 +27,7 @@ const Footer = class extends React.Component {
                       <li><Link to="/" className="navbar-item">Home</Link></li>
                       <li><Link className="navbar-item" to="/about">About</Link></li>
                       <li><Link className="navbar-item" to="/products">
-                        Products
+                        Incentive
                       </Link>
                     </li>
                     <li>
@@ -51,21 +51,21 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                   <li>
                     <Link className="navbar-item" to="/blog">
-                      Latest Stories
+                      News
                     </Link>
                   </li>
                   <li>
                     <Link className="navbar-item" to="/contact">
-                      Contact
+                      Contact Us
                     </Link>
                   </li>
                   </ul>
                 </section>
                 </div>
                 <div className="column is-4 social">
-                
+
                   <a title="facebook" href="https://facebook.com">
-                    <img 
+                    <img
                       src={facebook}
                       alt="Facebook"
                       style={{ width: '1em', height: '1em' }}
