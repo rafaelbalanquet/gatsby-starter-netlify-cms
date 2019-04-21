@@ -13,7 +13,7 @@ tags:
   - US/China
 ---
 
-![Stock Brokers](/img/brokers.jpeg)
+![Stock Brokers](/img/brokers.jpg)
 
 [Amazon](https://www.cnbc.com/quotes/?symbol=AMZN), [Boeing](https://www.cnbc.com/quotes/?symbol=BA), [Microsoft](https://www.cnbc.com/quotes/?symbol=MSFT) and [ExxonMobil](https://www.cnbc.com/quotes/?symbol=XOM) are among more than 140 S&P 500 companies reporting quarterly results. According to Refinitiv, 74% of the companies reporting so far have beaten expectations. Based on forecasts and actual reports, earnings for the S&P 500 as a whole are expected to decline 1.7%, the first negative quarter in three years. Some forecasters had projected an earnings decline of 4% or more.
 
