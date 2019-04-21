@@ -2,7 +2,7 @@
 templateKey: 'index-page'
 title: 'AC Wealth Management Club'
 image: /img/home-jumbotron1.jpg
-heading: Main Page
+heading: Home Page
 subheading: Early investments exponentially increase returns
 description: >-
   The Allegheny College Wealth Management club is currently made up of a hardworking
