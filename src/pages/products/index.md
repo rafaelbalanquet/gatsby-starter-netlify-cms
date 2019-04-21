@@ -83,7 +83,7 @@ testimonials:
     quote: >-
       It is well enough that people of the nation do not understand our banking
       and monetary system. for if they did, I believe there would be a revolution
-      before tomorrow morning. 
+      before tomorrow morning.
 full_image: /img/jumboprod2.jpg
 pricing:
   heading: What are you giving up?
@@ -95,7 +95,7 @@ pricing:
   plans:
     - description: Won't
       items:
-      - Compete in club based competition to earn prizes
+      - [I'm an inline-style link](https://www.google.com)
       plan: Take
       price: '0'
     - description: Cost

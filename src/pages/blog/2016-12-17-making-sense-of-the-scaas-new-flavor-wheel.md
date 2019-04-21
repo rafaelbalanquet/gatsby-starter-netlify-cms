@@ -16,7 +16,7 @@ Over the past year, policymakers have had to contend with a slowdown in global d
 
 Data on Friday showed a 0.8% increase in the nationwide core consumer price index (CPI), which includes oil products, but excludes volatile fresh food costs, compared with a median market forecast of 0.7%. In February, annual core consumer inflation hit 0.7%.
 
-## What the updates mean to you
+## The BOJ index and its representation
 
 The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
