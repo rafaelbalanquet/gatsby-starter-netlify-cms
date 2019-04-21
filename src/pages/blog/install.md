@@ -1,0 +1,2 @@
+---
+templateKey: 'blog-post'

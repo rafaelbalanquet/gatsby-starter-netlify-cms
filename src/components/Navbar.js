@@ -60,8 +60,8 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact Us
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+              <Link className="navbar-item" to="/contact/file-upload">
+                Upload a File
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
