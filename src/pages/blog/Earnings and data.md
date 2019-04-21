@@ -19,6 +19,8 @@ tags:
 
 The equivalent of the economy's first-quarter report card will be released Friday, with the first reading of GDP. The outlook for first-quarter growth has suddenly shifted upward, after a series of better data releases later in the quarter.
 
+![China Trump](/img/trump.jpg)
+
 At the same time, investors are feeling better about global growth and far less fearful of a recession in the near term. One reason is that China's data has also being picking up. This past week, China reported first-quarter GDP of 6.4%, above economic expectations.
 
 U.S. trade talks with china could also be important in the week ahead, with negotiations continuing and investors awaiting news of a summit between President Donald Trump and China President Xi Jinping.
