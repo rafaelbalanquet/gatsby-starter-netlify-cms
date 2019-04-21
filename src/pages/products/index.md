@@ -95,7 +95,7 @@ pricing:
   plans:
     - description: Won't
       items:
-      - [I'm an inline-style link](https://www.google.com)
+      - Compete in club based competition to earn prizes
       plan: Take
       price: '0'
     - description: Cost
