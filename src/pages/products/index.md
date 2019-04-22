@@ -70,7 +70,7 @@ main:
     image: /img/finance.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/bluehundreds.jpg
+    image: /img/bluehundreds2.jpg
   image3:
     alt: Coffee beans
     image: /img/BusCom.jpeg
