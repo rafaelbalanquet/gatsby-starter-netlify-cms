@@ -32,7 +32,6 @@ export const ProductPageTemplate = ({
                       ? image.childImageSharp.fluid.src
                       : image
                   })`,
-                  backgroundAttachment: `fixed`,
                 }}
               >
                 <h2
@@ -94,7 +93,6 @@ export const ProductPageTemplate = ({
                       ? fullImage.childImageSharp.fluid.src
                       : fullImage
                   })`,
-                  backgroundAttachment: `fixed`,
                 }}
               />
               <h2 className="has-text-weight-semibold is-size-2">
