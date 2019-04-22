@@ -26,7 +26,6 @@ export const IndexPageTemplate = ({
                 : image
             })`,
             backgroundPosition: `top left`,
-            backgroundAttachment: `fixed`,
           }}
     >
   <div style={{
