@@ -2,10 +2,11 @@
 templateKey: blog-post
 title: U.S. Retail Store's Planned Closings Already Exceed 2018 Total
 date: 2019-04-12T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+description: Retailer's all across the U.S. get ready to close more storefronts as online methods gain even more popularity. 
 tags:
-  - brewing
-  - chemex
+  - retailers
+  - brickandmortar
+  - failing
 ---
 ![retail](/img/retail.jpg)
 
@@ -15,7 +16,7 @@ As an executive vice president at [Great American Group](https://greatamerican.c
 
 Companies like his have been busy in recent years, but lately one thing has been missing.
 
-*"In all other cycles, including 2008, a lot of people would come in and buy racking, circular racks and so on,"* Mr. Mulcunry said. *"They'd buy it all and warehous it and wait until somebody wanted to repopen a store and sell it back to them. Those people have gone away."*
+*"In all other cycles, including 2008, a lot of people would come in and buy racking, circular racks and so on,"* Mr. Mulcunry said. *"They'd buy it all and warehouse it and wait until somebody wanted to re-open a store and sell it back to them. Those people have gone away."*
 
 He added, *"People don't think retail is going to grow again from a bricks-and-mortar perspective."*
 
