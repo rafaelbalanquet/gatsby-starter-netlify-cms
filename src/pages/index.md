@@ -1,6 +1,6 @@
 ---
 templateKey: 'index-page'
-title: 'AC Wealth Management Club'
+title: 'Rafael M. Balanquet'
 image: /img/NYC.jpg
 heading: Home Page
 subheading: Early investments exponentially increase returns
