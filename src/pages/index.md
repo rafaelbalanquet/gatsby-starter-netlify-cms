@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'AC Wealth Management Club'
-image: /img/home-jumbotron1.jpg
+image: /img/NYC.jpg
 heading: Home Page
 subheading: Early investments exponentially increase returns
 description: >-
