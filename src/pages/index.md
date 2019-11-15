@@ -1,6 +1,6 @@
 ---
 templateKey: 'index-page'
-title: 'Rafael M. Balanquet'
+title: 'Hello, I am Rafael'
 image: /img/NYC.jpg
 heading: Home Page
 subheading: Who am I?
