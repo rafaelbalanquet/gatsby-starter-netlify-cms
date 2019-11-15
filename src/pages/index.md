@@ -1,9 +1,9 @@
 ---
 templateKey: 'index-page'
-title: 'Rafael M. Balanquet'
+title: 'Hi, I'm Rafael'
 image: /img/NYC.jpg
 heading: Home Page
-subheading: Who am I?
+subheading: Professional Overview
 description: >-
   The Allegheny College Wealth Management club is currently made up of a hardworking
   group of people with divers majors and one common goal; to expand and disperse
